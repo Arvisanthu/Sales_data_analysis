@@ -1,13 +1,4 @@
-1.. What is Feather & how to read data from data !
-Feather is a binary file format that is used for storing data ..
-Feather is a fast, lightweight, and easy-to-use binary file format for storing data 
-It shows high I/O speed, doesn’t take too much memory on the disk and doesn’t need any unpacking 
-when loaded back into RAM.
-Feather has max I/O speed
-
-
-2.. Which is the best month for sale ?
-Lets first understand what this term 'best' is all about : if any month has maximum sales, we will consider that as best
+*Visualisation:*
 
 <img width="708" height="341" alt="City Max orders" src="https://github.com/user-attachments/assets/39f5bcf6-a72d-4aa8-9930-e9233bfd5cb7" />
 
